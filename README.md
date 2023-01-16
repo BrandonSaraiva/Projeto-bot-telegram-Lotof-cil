@@ -28,6 +28,8 @@ Para pegar o caminho do seu excel pelo drive:
 ![image](https://user-images.githubusercontent.com/90096835/212684742-f3891991-1f78-496e-a848-40fd472f4d60.png)
 
 
+**Lembrando que para o bot funcionar você precisa deixar o código rodando, é o *bot.polling()* que faz o servidor ficar on**
+
 ----------------------COMANDOS----------------
 
 */opcao1* Jogo do dia
