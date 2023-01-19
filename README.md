@@ -47,7 +47,8 @@ Qualquer mensagem que você mandar Tokinho já irá te mandar as opções, não 
 # Print Mostrando funcionando
 ![image](https://user-images.githubusercontent.com/90096835/213453534-3cec2753-51ba-4ea0-b09f-3800b29d74fe.png)
 
-![image](https://user-images.githubusercontent.com/90096835/213453615-5c826332-f860-4879-9392-93f47fec3576.png)
+![image](https://user-images.githubusercontent.com/90096835/213454057-70335111-c741-46ab-a72a-48aea28551fc.png)
+
 
 
 
