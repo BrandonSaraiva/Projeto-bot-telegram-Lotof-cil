@@ -45,8 +45,9 @@ Para pegar o caminho do seu excel pelo drive:
 Qualquer mensagem que você mandar Tokinho já irá te mandar as opções, não é necessario mandar /start.
 
 # Print Mostrando funcionando
-![image](https://user-images.githubusercontent.com/90096835/212687686-3f430622-e2d9-45dc-8576-f20a4ef9fc9c.png)
-![image](https://user-images.githubusercontent.com/90096835/212687757-fcb324f4-b9e1-4abe-9ff4-5f7921bcf1a1.png)
+![image](https://user-images.githubusercontent.com/90096835/213453534-3cec2753-51ba-4ea0-b09f-3800b29d74fe.png)
+
+![image](https://user-images.githubusercontent.com/90096835/213453615-5c826332-f860-4879-9392-93f47fec3576.png)
 
 
 
